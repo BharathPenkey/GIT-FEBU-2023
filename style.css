@@ -1,0 +1,10 @@
+*{
+    padding:0px;
+}
+h3{
+    text-transform: capitalize;
+    text-align: center;
+}
+p{
+    color:brown;
+}
